@@ -7,7 +7,7 @@
 ![Ted's most lang](https://github-readme-stats.vercel.app/api/top-langs/?username=gizrak&exclude_repo=gizrak.github.io)
 
 - 🔭 백엔드 개발자에요.
-- 🌱 ML/DL에 관심이 많아요.
+- 🌱 Data와 AI Agent에 관심이 많아요.
 - 🤔 거래소 자동투자를 만들고 있어요.
 - 😄 다들 저를 TED라고 불러요.
 - ⚡ 좋아하는 것들은 🏊 🐟 🚗 ☕ 🎸 🥁
